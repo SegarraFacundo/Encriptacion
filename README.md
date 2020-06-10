@@ -1,6 +1,6 @@
 # ENCRIPTACIÓN DE ARCHIVOS
 
-1) Agregamos los archivos a encriptar en la carpeta data
+1) Agregamos los archivos a encriptar en la carpeta `data`
 2) Ejecutamos el siguiente comando
 
     ```
